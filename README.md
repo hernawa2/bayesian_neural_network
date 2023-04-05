@@ -1,2 +1,2 @@
-# bayesian_neural_network
-Translation of Bayesian Neural Network Model and its training algorithm from Chandra &amp; He (2021)
+# Bayesian Neural Network
+Translation of Bayesian Neural Network Model and its training algorithm to Julia (Chandra &amp; He (2021))
